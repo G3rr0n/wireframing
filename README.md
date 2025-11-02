@@ -22,3 +22,5 @@ Low fidelity is the most basic type of wireframing. It’s so simplistic, that p
 
 
 High fidelity wireframing takes what you put together in the low fidelity stage and sprinkles in more of the detailed elements. High fidelity wireframes include visual markers and branding signifiers like colors, graphics, and font style. UI elements look realistic and might even include textures and shadows. At this stage, a designer might also choose to add in images and copy. This wireframing kit will get you started with all the basics you need to create great looking high fidelity wireframes.
+
+The design shown is a high fidelity mockup showing details of how the final design would be.
