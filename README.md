@@ -31,3 +31,12 @@ There’s almost no wrong time to use a wireframe, but there are some instances 
 
 Some designers like to continue sketching wireframes by hand using a blank sheet of computer paper, or dot grid journals. For those that want to jump into designing on-screen, Figma has a wireframe template to get you started. Figma is browser-based, so sharing your wireframes is as easy as sharing a link. Your team can leave comments right on the file so you can easily get feedback and field questions. 
 **Figma** is one of the most popular tools to use in wireframing, it is rich in features that allows easy collaboration and product design
+
+
+From a software development perspective, wireframing offers several key benefits that make it an essential part of the design process. Wireframes serve as visual blueprints that outline the basic structure and layout of an application before any actual development begins. This helps teams focus on functionality, user flow, and content placement without getting distracted by colors or detailed design elements. For example, in a project like a property booking platform, wireframes can help developers and designers agree on where the search bar, filters, and property cards should appear before writing any code.
+
+Wireframes also play a crucial role in guiding the design process. They allow teams to test and refine ideas early, identify potential usability issues, and plan for responsive layouts. By mapping out how users will move between pages—such as from the property listing view to the checkout page—wireframes ensure the user experience is smooth and intuitive.
+
+Another major benefit is that wireframes improve communication among team members. Designers, developers, and stakeholders can all visualize the same concept, provide feedback, and align expectations. For instance, a designer can use a wireframe to show a developer how the “Book Now” button should function, while the product owner can confirm that the flow matches user requirements. This shared understanding minimizes miscommunication and reduces the need for major changes later in the project.
+
+Overall, wireframes make the development process more efficient by providing clarity, saving time, and ensuring that everyone works toward the same vision.
