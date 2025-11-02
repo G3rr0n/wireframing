@@ -40,3 +40,11 @@ Wireframes also play a crucial role in guiding the design process. They allow te
 Another major benefit is that wireframes improve communication among team members. Designers, developers, and stakeholders can all visualize the same concept, provide feedback, and align expectations. For instance, a designer can use a wireframe to show a developer how the “Book Now” button should function, while the product owner can confirm that the flow matches user requirements. This shared understanding minimizes miscommunication and reduces the need for major changes later in the project.
 
 Overall, wireframes make the development process more efficient by providing clarity, saving time, and ensuring that everyone works toward the same vision.
+
+
+### Wireframing in practice
+A real-world example of how wireframing helped identify usability issues can be seen in the early design phase of an e-commerce website. During wireframing, the design team created a simple layout showing the navigation menu, product listings, and checkout flow. When reviewing the wireframes with stakeholders and potential users, they discovered that the checkout process required too many steps and lacked a clear “Proceed to Payment” button. This caused confusion, as users couldn’t easily understand how to complete their purchases.
+
+Because the issue was caught early through wireframing, the team was able to redesign the checkout flow before any code was written. They simplified it by combining steps, adding a progress indicator, and placing the call-to-action button in a more visible location. When the website was later developed and tested, users found the checkout process intuitive and quick, which increased conversions and overall satisfaction.
+
+This scenario highlights how wireframing plays a crucial role in creating user-friendly designs. By visualizing and testing ideas early, teams can identify problems before they become costly to fix. Wireframes encourage collaboration, allow for quick adjustments, and ensure that the final product delivers a smooth, efficient, and enjoyable user experience.
